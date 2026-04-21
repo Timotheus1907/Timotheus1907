@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+# C#, C++
+I'm a developer with strong interest in building desktop applications and game development.
+
 <!--
 **Timotheus1907/Timotheus1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
