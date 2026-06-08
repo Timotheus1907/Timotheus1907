@@ -13,7 +13,7 @@ I'm a developer with strong interest in building desktop applications and game d
 - SQL Server
 - Visual Studio
 
-# Testing
+## Testing
 
 - Test Driven Development (TDD)
 - NUnit
