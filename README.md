@@ -3,6 +3,8 @@
 # C#, C++
 I'm a developer with strong interest in building desktop applications and game development.
 
+[Portfolio](https://timotheus1907.github.io/) (WIP)
+
 # Tech
 
 - C#/ .NET
