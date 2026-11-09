@@ -2,7 +2,7 @@
 
 I'm a developer with strong interest in building desktop applications and game development.
 
-[Portfolio](https://timotheus1907.github.io/) (WIP)
+[Portfolio](https://timotheus1907.github.io)
 
 # Languages
 ![C#](https://img.shields.io/badge/C%23-00FFFF?style=for-the-badge&logo=c-sharp&logoColor=black)
