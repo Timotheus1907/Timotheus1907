@@ -20,8 +20,6 @@ I'm a developer with strong interest in building desktop applications and game d
 ### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8B4513?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-8B4513?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-FFC0CB?style=for-the-badge&logo=opencode&logoColor=black)
-![Pi Harness](https://img.shields.io/badge/Pi%20Harness-FFC0CB?style=for-the-badge&logo=pi&logoColor=black)
 
 ## Projects
 - RecordShop, [frontend](https://github.com/Timotheus1907/nc-recordshop-frontend) [backend](https://github.com/Timotheus1907/nc-recordshop-backend) - RecordShop is an online shop for music of any genre. Able to connect to any record database which fits the Album model
