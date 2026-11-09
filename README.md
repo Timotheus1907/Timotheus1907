@@ -1,25 +1,23 @@
 ## Hi there 👋
 
-# C#, C++
 I'm a developer with strong interest in building desktop applications and game development.
 
 [Portfolio](https://timotheus1907.github.io/) (WIP)
 
+# Languages
+![C#](https://img.shields.io/badge/C%23-00FFFF?style=for-the-badge&logo=c-sharp&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 # Tech
-
-- C#/ .NET
-- C++
-- ASP.NET Core MVC
-- Blazor
-- Razor Components
-- SQL Server
-- Visual Studio
+![.NET](https://img.shields.io/badge/.NET-cyan?style=for-the-badge&logo=dotnet&logoColor=black)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-00FFFF?style=for-the-badge&logo=dotnet&logoColor=black)
+![Blazor](https://img.shields.io/badge/Blazor-00FFFF?style=for-the-badge&logo=blazor&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-90EE90?style=for-the-badge&logo=visualstudio&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-90EE90?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
 
 ## Testing
 
-- Test Driven Development (TDD)
-- NUnit
-- Moq
+![NUnit](https://img.shields.io/badge/NUnit-006400?style=for-the-badge)
+![Moq](https://img.shields.io/badge/Moq-006400?style=for-the-badge&logo=moq&logoColor=white)
 
 # Projects
 
